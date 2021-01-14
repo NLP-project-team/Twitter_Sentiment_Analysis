@@ -1,6 +1,6 @@
 # Twitter_Sentiment_Analysis
 
-This project is being prrocessed by a team.
+This project is being processed by a team.
 Team members:
 - Abdullah Ficici
 - Ezgi Gumusbas
@@ -8,3 +8,4 @@ Team members:
 - Mikail Kaya
 - Seyma Tas
 - Tacettin Arici
+- Yasin Kusan
